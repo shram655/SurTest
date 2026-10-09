@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppID: 8193ff2f-92d4-46a6-85b6-affb8a7c37fc
+  VoiceAppID: 
+  ChatAppID: 8193ff2f-92d4-46a6-85b6-affb8a7c37fc
+  HostType: 1
+  PreferredRegion: 0
+  EnabledRegions: -1
+  Protocol: 4
+  UseWebSocket: 1
+  WebSocketPort: 443
+  ServerAddress: 
+  ServerPort: 5055
+  VoiceServerPort: 5055
+  JoinLobby: 1
+  EnableLobbyStatistics: 0
+  PunLogging: 0
+  NetworkLogging: 1
+  RunInBackground: 1
+  RpcList:
+  - ActivateButton
+  - AnimatorTrigger
+  - ApplyVehicleDamage
+  - ApplyVehicleDamage2
+  - Attack
+  - Ban
+  - Chat
+  - CreateAnimal
+  - CreateItem
+  - CreateWeapon
+  - DamagedVehicle
+  - DeadAnimal
+  - Death
+  - DeathExplode
+  - DestroyObject
+  - DestroyRpc
+  - DestroyTree
+  - DestroyVehicle
+  - ExitCar
+  - ExploseMine
+  - FireEffect
+  - FireMortar
+  - FireVehicle
+  - FireVehicle2
+  - FlashLight
+  - GameChat
+  - InCar
+  - InGunner
+  - init
+  - InstantiateRpc
+  - InTurret
+  - Kill
+  - MortarCreate
+  - MortarDelete
+  - PickupItemInit
+  - PunPickup
+  - PunPickupSimple
+  - PunRespawn
+  - RequestForPickupItems
+  - RequestForPickupTimes
+  - Respawn
+  - SetAccuma
+  - SetBackpack
+  - SetBodyArmor
+  - SetCloth
+  - SetFootType
+  - SetGlasses
+  - SetHelmet
+  - SetHeroItems
+  - SetHP
+  - SetRain
+  - SetSide
+  - SetTargetAnimal
+  - SetTargetAnimalNull
+  - SetTargetAnimalSearch
+  - SetVehicleEngine
+  - SetVehicleFuel
+  - SetVehicleLight
+  - SetWeapons
+  - Signal
+  - vc
+  DisableAutoOpenWizard: 1
